@@ -36,7 +36,7 @@ AI系開発ツールを導入している企業まとめ
 | 株式会社カカクコム                         | ✅          |           |                    |             | （AIコードエディタ「Cursor」を全エンジニア約500人に導入）        |
 | 株式会社エブリー                          | ✅          |           |                    |             | （「Cursor」を全エンジニア・PdMに導入）                  |
 | クラウドエース株式会社                       |            | ✅         |                    |             | （自律型AIエンジニア「Devin」を本格導入）                  |
-| 株式会社Hacobu                        |            |           | ✅                  | ✅           | （ChatGPT連携システム構築＆Copilotを全エンジニアに導入）       |
+| 株式会社Hacobu                        | ✅          | ✅         | ✅                  | ✅           | （全エンジニアに「Devin」「Cursor」「ChatGPT」「GitHub Copilot」を導入）<br> [「Devin」「Cursor」「ChatGPT」をテクノロジー部門全体へ展開](https://hacobu.jp/news/15146/) <br> [「ChatGPT」と「GitHub Copilot for Business」を導入](https://hacobu.jp/news/3339/)      |
 | 株式会社ヘッドウォータース                     |            |           | ✅                  |             | （全社で「GitHub Copilot」を導入）                  |
 | 株式会社メタップス                         |            |           | ✅                  |             | （全エンジニアに「GitHub Copilot for Business」を導入） |
 | 株式会社ツクルバ                          |            |           | ✅                  |             | （全エンジニアに「GitHub Copilot」利用環境を提供）          |
