@@ -90,5 +90,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
 | 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932)
 | [株式会社kubell](https://www.kubell.com/) | 🌀 | 🌀 | ✅ | | 🌀 | 希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。 |
+| [コミューン株式会社](https://communeinc.com/) | ✅ | ✅ | ✅ | ✅ | ✅ | 業務内容や個々のニーズに応じて、従業員が最適な生成AIツールの有料アカウントを自由に選択・活用できます<br>[業務に合わせてAIを選ぶ、新しい働き方。コミューンの『Choose Your AI』とは](https://note.com/communeinc/n/ndf8167c13160) |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
