@@ -1,1702 +1,1014 @@
-{
-  "companies": [
-    {
-      "name": "株式会社メルカリ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor全社導入、Copilot導入で生産性向上など",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "パナソニックホールディングス株式会社 (Panasonic HD)",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "「PX-GPT」を全社員約9万人に提供",
-          "url": null
-        },
-        {
-          "description": "開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと",
-          "url": "https://assets.ctfassets.net/wfutmusr1t3h/CREJxXjTaY2iEjREUnEfK/7758a1df872ed5a0d814e09563af38b6/1730_GitHubRecapTokyo_Panasonic_20241128__.pdf"
-        }
-      ]
-    },
-    {
-      "name": "日立製作所 (Hitachi)",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "「ジェネレーティブAIセンター」創設を発表",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "NECグループ (日本電気株式会社)",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全社でChatGPT積極活用の方針を発表",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "三菱UFJフィナンシャル・グループ",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "2023年夏にChatGPTを社内導入予定と発表",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "SBIホールディングス株式会社 (SBIグループ)",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "2025年3月よりChatGPT Enterprise導入開始",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "大和証券株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全社員約9,000人にChatGPTを導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社リクルート",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "Copilot全社展開予定、ChatGPT Enterprise利用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "LINEヤフー株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニア7,000名にGitHub Copilot導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "ソフトバンク株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "社内で生成AI活用を推進",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "GMOインターネットグループ株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "社内でGitHub Copilot・ChatGPTを活用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "GMOペパボ株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "社内でCursor, Devin, GitHub Copilot, ChatGPTを活用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社MIXI",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "ChatGPT Enterpriseを全従業員に導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "大日本印刷株式会社 (DNP)",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "ChatGPT Enterpriseを研究開発等の部門で導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "Zenken株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "国内初、全社員にChatGPT Enterprise導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社リバネス",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "ChatGPT Enterpriseを全社員に導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社リバネスナレッジ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "エンジニアチームをAIエージェント対応組織に変革してうまくいき始めている気がする",
-          "url": "https://note.com/geeorgey/n/n71a0bd984115"
-        },
-        {
-          "description": "APIは各種活用中。manus,Windsurf,Claude Code活用開始",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社カカクコム",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "AIコードエディタ「Cursor」を全エンジニア約500人に導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社エブリー",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "「Cursor」を全エンジニア・PdMに導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "クラウドエース株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "full_adoption",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "自律型AIエンジニア「Devin」を本格導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社Hacobu",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアに「Devin」「Cursor」「ChatGPT」「GitHub Copilot」を導入",
-          "url": null
-        },
-        {
-          "description": "「Devin」「Cursor」「ChatGPT」をテクノロジー部門全体へ展開",
-          "url": "https://hacobu.jp/news/15146/"
-        },
-        {
-          "description": "「ChatGPT」と「GitHub Copilot for Business」を導入",
-          "url": "https://hacobu.jp/news/3339/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社ヘッドウォータース",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全社で「GitHub Copilot」を導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社メタップス",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアに「GitHub Copilot for Business」を導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社ツクルバ",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアに「GitHub Copilot」利用環境を提供",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社ワンキャリア",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "AIコーディング支援ツール「GitHub Copilot」を導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "ENECHANGE株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "プロダクト開発に関わる全社員に「Cursor」「Claude」「Devin」「GitHub Copilot」「ChatGPT」を導入",
-          "url": null
-        },
-        {
-          "description": "ENECHANGE、AIエージェント導入でプロダクト開発を強化",
-          "url": "https://enechange.co.jp/news/press/ai-agents/"
-        },
-        {
-          "description": "「GPT-4」の全従業員への導入、「GitHub Copilot」の全エンジニアへの導入による業務改革を開始",
-          "url": "https://enechange.co.jp/news/press/gpt4/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社クリエ",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "「GitHub Copilot Business」を2024年6月より導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社スカイディスク",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "GPT-4搭載「GitHub Copilot X」を全エンジニアに導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社Sapeet",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "full_adoption",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアが完全自律型AIエンジニア「Devin」利用可能に",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社エクスプラザ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全社員にCursor導入・全員がChatGPT活用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社みずかげ製作所",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "full_adoption",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "「Devin」導入し副業エンジニア含め活用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社マネーフォワード",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub Copilot導入効果を検証・活用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社ZOZO",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub Copilot導入時の工夫点を紹介",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社NTTデータ",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "2023年度に社内でGitHub Copilot先行導入・効果検証",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社ビザスク",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "Cline(Vertex AI)やGenemi、AIモデルとしてはClaudeも活用している旨公開情報有り",
-          "url": null
-        },
-        {
-          "description": "安全で迅速なAI導入",
-          "url": "https://tech.visasq.com/ai-development-infra-fast-start"
-        },
-        {
-          "description": "ChatGPTをZapierで使う",
-          "url": "https://tech.visasq.com/chatgpt-with-zapier"
-        }
-      ]
-    },
-    {
-      "name": "株式会社ベースマキナ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用",
-          "url": null
-        },
-        {
-          "description": "開発期間2週間！新機能の叩き台をAIエージェント駆動で爆速開発した話",
-          "url": "https://tech.basemachina.jp/entry/prototyping-with-ai-agent"
-        }
-      ]
-    },
-    {
-      "name": "コクヨ株式会社",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Devin導入、Copilot導入、GPTを含めた複数LLMモデルのチャットツール有り。Cursor、Claude Codeは一部エンジニアが利用中。",
-          "url": null
-        },
-        {
-          "description": "Devin導入記事",
-          "url": "https://note.com/kokuyo_engineer/n/n2f4035ec6447"
-        },
-        {
-          "description": "GitHub Copilot関連記事",
-          "url": "https://note.com/kokuyo_engineer/n/n2c0572956865"
-        },
-        {
-          "description": "GPTを含めた複数LLMモデルのチャットツール",
-          "url": "https://classmethod.jp/cases/kokuyo/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社スタディスト",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "全社の希望者に各アカウントを配布しており、Claude CodeはAPI経由での利用だけでなくMaxプランも選択可能",
-          "url": null
-        },
-        {
-          "description": "スタディストにおけるAIツールの柔軟な活用と効率化への道のり",
-          "url": "https://studist.tech/studist-ai-tools-b42a78f8db7c"
-        }
-      ]
-    },
-    {
-      "name": "株式会社ココナラ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor BusinessとGitHub Copilotを全社導入、Claude Code一部導入",
-          "url": null
-        },
-        {
-          "description": "いかにしてココナラはCursor Businessを導入したのか?",
-          "url": "https://zenn.dev/coconala/articles/coconala-cursor-business-introduction"
-        },
-        {
-          "description": "Claude Code導入",
-          "url": "https://x.com/coconala_eng/status/1939597989473026485"
-        }
-      ]
-    },
-    {
-      "name": "REALITY株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアに「GitHub Copilot」利用環境を提供",
-          "url": null
-        },
-        {
-          "description": "REALITY株式会社の導入事例",
-          "url": "https://note.com/reality_eng/n/nee88b2d864fd"
-        }
-      ]
-    },
-    {
-      "name": "株式会社ログラス",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアにCursor導入・一部にDevin導入",
-          "url": null
-        },
-        {
-          "description": "ログラスは全エンジニアにCursorを配ります",
-          "url": "https://comemo.nikkei.com/n/n26dc284dcd5a"
-        },
-        {
-          "description": "数年来の技術的負債を改修した話 - 2種類のORM並列状態からの脱却 -",
-          "url": "https://zenn.dev/loglass/articles/94753ea267bb74"
-        },
-        {
-          "description": "社内業務の生産性を爆上げしたGPTs / 利用推進のための取り組み",
-          "url": "https://note.com/majackyy/n/n10b8191ef9ac?magazine_key=m56fa214ad4c6"
-        }
-      ]
-    },
-    {
-      "name": "株式会社CINC",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "ChatGPT Teamを全社導入",
-          "url": null
-        },
-        {
-          "description": "「ChatGPT Team」の全社導入後アンケートの結果に関するお知らせ",
-          "url": "https://www.cinc-j.co.jp/news/7116/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社リアルグローブ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全社の希望者に各アカウントを配布、Gemini Proを全社導入",
-          "url": null
-        },
-        {
-          "description": "社員の働き方改革：生成AIで開発効率化とエンジニアの負担を軽減！",
-          "url": "https://note.com/realglobe101/n/n014bcc85ccec"
-        }
-      ]
-    },
-    {
-      "name": "Cloudbase 株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor, ChatGPT はロールを制限せず希望者に導入。Claude Code は API と Max プラン両方導入。Gemini Proは全社導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社エアークローゼット",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "(Claude Code Max, GitHub Copilotを全エンジニアに導入し、Cursorは希望者に支給しています。Devinは一部で検証中です。API経由でGeminiも利用しています。",
-          "url": null
-        },
-        {
-          "description": "Claude Code Maxを全エンジニアに導入しました！",
-          "url": "https://zenn.dev/aircloset/articles/6a343b70185e02"
-        }
-      ]
-    },
-    {
-      "name": "株式会社ゲームエイト",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor一部導入、Devin・Copilot・ChatGPT・Claude Code全社導入",
-          "url": null
-        },
-        {
-          "description": "GitHub Copilot導入",
-          "url": "https://x.com/chan_san_jp/status/1626073316523130883"
-        },
-        {
-          "description": "Claude MAX導入",
-          "url": "https://x.com/chan_san_jp/status/1930602413473636483"
-        }
-      ]
-    },
-    {
-      "name": "株式会社マインディア",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cline使い放題。",
-          "url": null
-        },
-        {
-          "description": "Cursorも希望者は全員利用可能",
-          "url": null
-        },
-        {
-          "description": "Claude Code, Gemini Cliの使用制限なし",
-          "url": null
-        },
-        {
-          "description": "利用可能",
-          "url": "https://zenn.dev/minedia/articles/be0005c37f7229"
-        },
-        {
-          "description": "新モデルやClaude の Github統合はリリース日から",
-          "url": null
-        },
-        {
-          "description": "Imagen,Midjourney,Lumaなど動画生成AIのAPIも利用可能。",
-          "url": null
-        },
-        {
-          "description": "参考",
-          "url": "https://zenn.dev/p/minedia"
-        },
-        {
-          "description": "全社的にLLMは積極的に利用する方針なので申請すれば利用可能です。()",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社メドレー",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "希望者に各アカウントを配布。Devinも100名を超えて積極活用中です。ClaudeCodeはAPI・Maxプランどちらも状況に合わせて導入",
-          "url": null
-        },
-        {
-          "description": "メドレーのAI活用戦略：「AI for All」",
-          "url": "https://developer.medley.jp/entry/2025/04/25/112655/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社picon",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "職種問わず全社員にAIツールを導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社サイバーエージェント",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "全社的に GitHub Copilot と ChatGPT をエンタープライズ契約しているのに加え、エンジニア1人あたり $200/月 まで任意の開発AIエージェントの費用を負担",
-          "url": null
-        },
-        {
-          "description": "サイバーエージェントのAI導入事例",
-          "url": "https://note.com/cyberagent/n/n10b8191ef9ac"
-        },
-        {
-          "description": "サイバーエージェントのGitHub Copilot導入と 開発生産性",
-          "url": "https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing?slide=68"
-        },
-        {
-          "description": "サイバーエージェントのGitHub CopilotのAnalyticsデータを公開！利用開始から約3ヶ月でエンジニアの生産性は向上したのか？",
-          "url": "https://developers.cyberagent.co.jp/blog/archives/43059/"
-        },
-        {
-          "description": "開発AIエージェント導入に年間約4億円を投資決定",
-          "url": "https://www.cyberagent.co.jp/news/detail/id=32077"
-        }
-      ]
-    },
-    {
-      "name": "STORES 株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor, Devin, GitHub Copilot Enterpriseは申請に基づき希望者（全社員対象）にアカウント発行。ChatGPTも申請に応じて利用可能。Claude Codeは一部で展開中。",
-          "url": null
-        },
-        {
-          "description": "AIサービス導入時にまずチェックすべき3つの観点",
-          "url": "https://product.st.inc/entry/2025/06/26/194458"
-        }
-      ]
-    },
-    {
-      "name": "株式会社 asken",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor、Devin、GitHub Copilotは全エンジニアに導入済み",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "レバレジーズ株式会社",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "自社のセキュリティやプライバシーポリシー等に抵触しない限り、申請すれば利用可能",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "千株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "「GitHub Copilot、Cursor」を全エンジニア・PdMに導入・Devin、Claude Codeを一部導入",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社TechBowl",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub CopilotとClaude Codeを全社導入",
-          "url": null
-        },
-        {
-          "description": "参考",
-          "url": "https://zenn.dev/p/techtrain_blog"
-        }
-      ]
-    },
-    {
-      "name": "ランサーズ株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "2025年3月から全エンジニアに「Windsurf」を導入、使いたいAIツールを挙手すれば、有料プランを全員に配布する仕組みも整えている。また業務自動化AIエージェント「ランサーズ ジムインAI」全社導入、OpenAI、Gemini、Anthropicの主要モデルおよびStableDiffusionでの画像生成が使い放題",
-          "url": null
-        },
-        {
-          "description": "全エンジニアにAI開発ツール「Windsurf」導入 ～社内調査：使用実態調査レポートを公開～",
-          "url": "https://note.com/lancerspr/n/nbc8abc6a92a2"
-        },
-        {
-          "description": "ランサーズ ジムインAI",
-          "url": "https://www.lancers.co.jp/news/pr/24268/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社カナリー",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "Gemini for Google Workspace・Difyを全社導入",
-          "url": null
-        },
-        {
-          "description": "AI関連ツールの活用",
-          "url": "https://recruit.canary-app.jp/engineer-entrance-book#:~:text=%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82-,3.2%20AI%E9%96%A2%E9%80%A3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%B4%BB%E7%94%A8,-GitHub%20Copilot"
-        }
-      ]
-    },
-    {
-      "name": "株式会社 オプティム",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "not_adopted",
-        "chatgpt": "not_adopted",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアにAmazon bedrock経由で導入済み",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "[NOWIST株式会社](https://nowist.co.jp/)",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全職種AI利用OK！ドキュメントと連携し効率化中",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "monoAI technology株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub Copilot,ChatGPTは全社、Claude Codeはサーバーエンジニアのみ。UnityエンジニアはWindsurfを利用",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社Voicy",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Gemini を全社員に導入。全社の希望者に、Cursor、Devin、GitHub Copilot、ChatGPT、Claude Code の各アカウントを配布",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社スマートバンク",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "全エンジニアはClaude Max / Cursor / GitHub Copilotから使いたいものを選んで利用可能です。全社員、Devinを利用可能で、$50まで好きなAIサービスを利用できるためChatGPTも利用可能です。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社 Fusic",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor、Devin、GitHub Copilot、Claude Codeを全エンジニアに展開しチーム等の判断により自由に選択可能。ChatGPT/Claudeはエンジニア以外にも導入済み",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社TimeTree",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "これらのツールに加えてClaude.ai, Gemini, Gemini Code Assist, OpenAI API, Anthropic APIが利用可能(APIはワークスペース単位での利用上限あり)",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社SmartHR",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "全社的にAIサービスの利用を推進しています。特にChatGPT、CursorはPdE以外のメンバーにも幅広く利用されています。",
-          "url": null
-        },
-        {
-          "description": "Cursor/Devin全社導入の理想と現実",
-          "url": "https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi"
-        },
-        {
-          "description": "「Cursor/Devin全社導入の理想と現実」のその後",
-          "url": "https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi-nosonohou"
-        },
-        {
-          "description": "エンジニア向けCursor勉強会のハンズオン資料公開！ —— Rules、Doc、MCP、音声入力との連携も",
-          "url": "https://tech.smarthr.jp/entry/2025/04/28/163136"
-        },
-        {
-          "description": "SmartHRの複数のチームにおけるMCPサーバーの活用事例と課題",
-          "url": "https://speakerdeck.com/yukisnow1823/smarthrnofu-shu-notimuniokerumcpsabanohuo-yong-shi-li-toke-ti"
-        }
-      ]
-    },
-    {
-      "name": "株式会社カンリー",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor/Copilotは選択式",
-          "url": null
-        },
-        {
-          "description": "Devin/ClaudeCodeは全エンジニアに導入",
-          "url": null
-        },
-        {
-          "description": "Gemini/ChatGPT/NotionAIは職種を問わず全社員導入",
-          "url": null
-        },
-        {
-          "description": "カンリーはDevinを入社させて、文化を変えていきます",
-          "url": "https://zenn.dev/canly/articles/d06828073eb545"
-        }
-      ]
-    },
-    {
-      "name": "株式会社カケハシ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor・Devin・GitHub Copilot・Geminiアプリを全社導入、ChatGPTはTeamプランを一部利用、Claude Code は社内検証中",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社カオナビ",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "not_adopted",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "(その他Gemini・NotebookLM・内製Slack AIチャットボット(Claude Sonnet)を全社導入、Claude Code導入準備中)",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社TOKIUM",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub Copilotは2023年3月、Devinは2025年2月より導入",
-          "url": null
-        },
-        {
-          "description": "「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note",
-          "url": "https://note.tokium.jp/n/ndc3da77d6e44"
-        },
-        {
-          "description": "2025年6月から、エンジニア1人あたり月10万円のAIツール関連予算を確保しており、開発業務へのAI利用を積極的に支援",
-          "url": null
-        },
-        {
-          "description": "「アンラーニングを重ね、AIエージェント時代を切り拓く 【株式会社TOKIUM　取締役 CTO　西平 基志さん】」",
-          "url": "https://magazine.techcareer.jp/interview/cto/24435/"
-        }
-      ]
-    },
-    {
-      "name": "株式会社Showcase Gig",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "Cursor, Devin, Github Copilot, ChatGPT は全エンジニアに導入。Claude Code は検討中です。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社アシュアード",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub CopilotとClaude Codeをエンジニア向けに全社導入。",
-          "url": null
-        },
-        {
-          "description": "CursorをPdM、デザイナーに一部導入。",
-          "url": null
-        },
-        {
-          "description": "ほか、Gemini Pro が全社で利用可能。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社コロプラ",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Gemini Pro全社導入、Gemini CLI一部導入",
-          "url": null
-        },
-        {
-          "description": "AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入",
-          "url": "https://blog.colopl.dev/entry/cursor-engineer-adoption-2025"
-        }
-      ]
-    },
-    {
-      "name": "株式会社 mov",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "mov は各種 AI ツールを導入しています",
-          "url": "https://note.com/kaiba/n/n25e5cce10932"
-        }
-      ]
-    },
-    {
-      "name": "[株式会社kubell](https://www.kubell.com/)",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "[ちゅらデータ株式会社](https://churadata.okinawa/)",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "AI文章校正ツールちゅらいと",
-          "url": "https://chuwrite.com/"
-        },
-        {
-          "description": "社内制度により、弊社エンジニアは任意のツールを導入可能。また、弊社プロダクト｢｣を無制限に利用可能。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社エスマット",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社B4A",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "プロダクトチーム全社員がClaude CodeとDevin利用可能。",
-          "url": null
-        },
-        {
-          "description": "全社員がGemini利用可能。",
-          "url": null
-        },
-        {
-          "description": "CursorとChatGPTは一部のみ利用可能。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "mocomoco株式会社",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "mocomocoでは、Claude Codeを開発部全員に導入しています🤖",
-          "url": null
-        },
-        {
-          "description": "https://x.com/gojiteji/status/1936074104811229686",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社ヤオコー",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "人間性を捧げる生成AI時代の技術選定",
-          "url": "https://speakerdeck.com/yo4raw/ren-jian-xing-wo"
-        },
-        {
-          "description": "GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社キャリアインデックス",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "エンジニアに関して、Claude Codeは今後MAXを利用する予定、CodeRabbitも一部導入中。Geminiは全社員導入中。",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社iCARE",
-      "tools": {
-        "cursor": "partial_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "フリー株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "AIエージェントCline、freeeはどうやって全社導入した？",
-          "url": "https://developers.freee.co.jp/entry/ai-cline-rolling-out"
-        }
-      ]
-    },
-    {
-      "name": "アスクル株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub Copilotは全エンジニアに、ChatGPTは全社的に導入済み。Devinは一部開発チームから順次導入しています。",
-          "url": null
-        },
-        {
-          "description": "全社員を対象に自社専用対話型生成AIツールを運用開始",
-          "url": "https://www.askul.co.jp/kaisya/dx/stories/00146.html?nextUri=/kaisya/dx/stories/00146.html"
-        }
-      ]
-    },
-    {
-      "name": "株式会社GameWith",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "full_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "2023年3月よりGithub Copilot全社導入。2024年5月よりCursor, ChatGPT, Claudeなどの全社導入。Devin, Claude Codeも試験導入後に全社導入、その他Geminiも導入済み",
-          "url": null
-        },
-        {
-          "description": "GameWithでAIをうまく使うために取り組んでいること",
-          "url": "https://tech.gamewith.co.jp/entry/2023/05/23/184033"
-        },
-        {
-          "description": "AIツールの選択肢が増えたのでCursorを使い始めてみた話",
-          "url": "https://tech.gamewith.co.jp/entry/2024/12/04/161409"
-        },
-        {
-          "description": "Devinを2ヶ月間使った結果",
-          "url": "https://tech.gamewith.co.jp/entry/2025/05/16/080000"
-        }
-      ]
-    },
-    {
-      "name": "Nature株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Google Workspace契約によりGemini Advanced利用可能。他のAIツールも申請すれば基本的に予算範囲内で利用可能。",
-          "url": null
-        },
-        {
-          "description": "【生成AI入門者向け】社内用に作ったスライドを公開します",
-          "url": "https://engineering.nature.global/entry/how-to-get-along-well-with-generative-ai-public-version"
-        }
-      ]
-    },
-    {
-      "name": "Check Inn 株式会社",
-      "tools": {
-        "cursor": "not_adopted",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "not_adopted"
-      },
-      "official_sources": [
-        {
-          "description": "GitHub Copilot・Devinを全エンジニアに導入。",
-          "url": null
-        },
-        {
-          "description": "ChatGPTは一部導入済み",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社Grooves",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Gemini for Google Workspaceを導入",
-          "url": null
-        },
-        {
-          "description": "ChatGPTは希望者に配布",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "株式会社ベンジャミン",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "partial_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "partial_adoption",
-        "claude_code": "partial_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "AWS環境ではAmazon Q Developer CLIを利用可能、Cursor, Devin, Gemini, GitHub Copilot Enterprise, Claude Codeは申請に基づき利用可能",
-          "url": null
-        }
-      ]
-    },
-    {
-      "name": "ツクリンク株式会社",
-      "tools": {
-        "cursor": "full_adoption",
-        "devin": "full_adoption",
-        "github_copilot": "full_adoption",
-        "chatgpt": "not_adopted",
-        "claude_code": "full_adoption"
-      },
-      "official_sources": [
-        {
-          "description": "Claude Code, Cursor, GitHub Copilotを希望者に配布、Gemini Proを全社導入",
-          "url": null
-        },
-        {
-          "description": "ツクリンクにおける生成AIツールの活用事例",
-          "url": "https://zenn.dev/tsukulink/articles/2025-07-gen-ai-tools"
-        }
-      ]
-    }
-  ],
-  "status_mapping": {
-    "✅": "full_adoption",
-    "🌀": "partial_adoption",
-    "❓": "unconfirmed",
-    "": "not_adopted"
+[
+  {
+    "company_name": "株式会社メルカリ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（Cursor全社導入、Copilot導入で生産性向上など）"
+  },
+  {
+    "company_name": "パナソニックホールディングス株式会社 (Panasonic HD)",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（「PX-GPT」を全社員約9万人に提供） <br>  [開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと](https://assets.ctfassets.net/wfutmusr1t3h/CREJxXjTaY2iEjREUnEfK/7758a1df872ed5a0d814e09563af38b6/1730_GitHubRecapTokyo_Panasonic_20241128__.pdf)"
+  },
+  {
+    "company_name": "日立製作所 (Hitachi)",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（「ジェネレーティブAIセンター」創設を発表）"
+  },
+  {
+    "company_name": "NECグループ (日本電気株式会社)",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全社でChatGPT積極活用の方針を発表）"
+  },
+  {
+    "company_name": "三菱UFJフィナンシャル・グループ",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（2023年夏にChatGPTを社内導入予定と発表）"
+  },
+  {
+    "company_name": "SBIホールディングス株式会社 (SBIグループ)",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（2025年3月よりChatGPT Enterprise導入開始）"
+  },
+  {
+    "company_name": "大和証券株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全社員約9,000人にChatGPTを導入）"
+  },
+  {
+    "company_name": "株式会社リクルート",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（Copilot全社展開予定、ChatGPT Enterprise利用）"
+  },
+  {
+    "company_name": "LINEヤフー株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニア7,000名にGitHub Copilot導入）"
+  },
+  {
+    "company_name": "ソフトバンク株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（社内で生成AI活用を推進）"
+  },
+  {
+    "company_name": "GMOインターネットグループ株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（社内でGitHub Copilot・ChatGPTを活用）"
+  },
+  {
+    "company_name": "GMOペパボ株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（社内でCursor, Devin, GitHub Copilot, ChatGPTを活用）"
+  },
+  {
+    "company_name": "株式会社MIXI",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（ChatGPT Enterpriseを全従業員に導入）"
+  },
+  {
+    "company_name": "大日本印刷株式会社 (DNP)",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（ChatGPT Enterpriseを研究開発等の部門で導入）"
+  },
+  {
+    "company_name": "Zenken株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（国内初、全社員にChatGPT Enterprise導入）"
+  },
+  {
+    "company_name": "株式会社リバネス",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（ChatGPT Enterpriseを全社員に導入）"
+  },
+  {
+    "company_name": "株式会社リバネスナレッジ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（APIは各種活用中。manus,Windsurf,Claude Code活用開始）[エンジニアチームをAIエージェント対応組織に変革してうまくいき始めている気がする](https://note.com/geeorgey/n/n71a0bd984115)"
+  },
+  {
+    "company_name": "株式会社カカクコム",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（AIコードエディタ「Cursor」を全エンジニア約500人に導入）"
+  },
+  {
+    "company_name": "株式会社エブリー",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（「Cursor」を全エンジニア・PdMに導入）"
+  },
+  {
+    "company_name": "クラウドエース株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "全社導入",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（自律型AIエンジニア「Devin」を本格導入）"
+  },
+  {
+    "company_name": "株式会社Hacobu",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニアに「Devin」「Cursor」「ChatGPT」「GitHub Copilot」を導入）<br> [「Devin」「Cursor」「ChatGPT」をテクノロジー部門全体へ展開](https://hacobu.jp/news/15146/) <br> [「ChatGPT」と「GitHub Copilot for Business」を導入](https://hacobu.jp/news/3339/)"
+  },
+  {
+    "company_name": "株式会社ヘッドウォータース",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全社で「GitHub Copilot」を導入）"
+  },
+  {
+    "company_name": "株式会社メタップス",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニアに「GitHub Copilot for Business」を導入）"
+  },
+  {
+    "company_name": "株式会社ツクルバ",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニアに「GitHub Copilot」利用環境を提供）"
+  },
+  {
+    "company_name": "株式会社ワンキャリア",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（AIコーディング支援ツール「GitHub Copilot」を導入）"
+  },
+  {
+    "company_name": "ENECHANGE株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（プロダクト開発に関わる全社員に「Cursor」「Claude」「Devin」「GitHub Copilot」「ChatGPT」を導入）<br> [ENECHANGE、AIエージェント導入でプロダクト開発を強化](https://enechange.co.jp/news/press/ai-agents/) [「GPT-4」の全従業員への導入、「GitHub Copilot」の全エンジニアへの導入による業務改革を開始](https://enechange.co.jp/news/press/gpt4/)"
+  },
+  {
+    "company_name": "株式会社クリエ",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（「GitHub Copilot Business」を2024年6月より導入）"
+  },
+  {
+    "company_name": "株式会社スカイディスク",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（GPT-4搭載「GitHub Copilot X」を全エンジニアに導入）"
+  },
+  {
+    "company_name": "株式会社Sapeet",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "全社導入",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニアが完全自律型AIエンジニア「Devin」利用可能に）"
+  },
+  {
+    "company_name": "株式会社エクスプラザ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全社員にCursor導入・全員がChatGPT活用）"
+  },
+  {
+    "company_name": "株式会社みずかげ製作所",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "全社導入",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（「Devin」導入し副業エンジニア含め活用）"
+  },
+  {
+    "company_name": "株式会社マネーフォワード",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（GitHub Copilot導入効果を検証・活用）"
+  },
+  {
+    "company_name": "株式会社ZOZO",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（GitHub Copilot導入時の工夫点を紹介）"
+  },
+  {
+    "company_name": "株式会社NTTデータ",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（2023年度に社内でGitHub Copilot先行導入・効果検証）"
+  },
+  {
+    "company_name": "株式会社ビザスク",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（Cline(Vertex AI)やGenemi、AIモデルとしてはClaudeも活用している旨公開情報有り） <br> [安全で迅速なAI導入](https://tech.visasq.com/ai-development-infra-fast-start)、[ChatGPTをZapierで使う](https://tech.visasq.com/chatgpt-with-zapier)"
+  },
+  {
+    "company_name": "株式会社ベースマキナ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用）  <br> [開発期間2週間！新機能の叩き台をAIエージェント駆動で爆速開発した話](https://tech.basemachina.jp/entry/prototyping-with-ai-agent)"
+  },
+  {
+    "company_name": "コクヨ株式会社",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "（Devin導入、Copilot導入、GPTを含めた複数LLMモデルのチャットツール有り。Cursor、Claude Codeは一部エンジニアが利用中。） <br> [Devin導入記事](https://note.com/kokuyo_engineer/n/n2f4035ec6447)、[GitHub Copilot関連記事](https://note.com/kokuyo_engineer/n/n2c0572956865)、[GPTを含めた複数LLMモデルのチャットツール](https://classmethod.jp/cases/kokuyo/)"
+  },
+  {
+    "company_name": "株式会社スタディスト",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（全社の希望者に各アカウントを配布しており、Claude CodeはAPI経由での利用だけでなくMaxプランも選択可能）  <br> [スタディストにおけるAIツールの柔軟な活用と効率化への道のり](https://studist.tech/studist-ai-tools-b42a78f8db7c)"
+  },
+  {
+    "company_name": "株式会社ココナラ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "一部導入"
+    },
+    "source": "（Cursor BusinessとGitHub Copilotを全社導入、Claude Code一部導入） <br> [いかにしてココナラはCursor Businessを導入したのか?](https://zenn.dev/coconala/articles/coconala-cursor-business-introduction) <br> [Claude Code導入](https://x.com/coconala_eng/status/1939597989473026485)"
+  },
+  {
+    "company_name": "REALITY株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニアに「GitHub Copilot」利用環境を提供） <br> [REALITY株式会社の導入事例](https://note.com/reality_eng/n/nee88b2d864fd)"
+  },
+  {
+    "company_name": "株式会社ログラス",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全エンジニアにCursor導入・一部にDevin導入） <br> [ログラスは全エンジニアにCursorを配ります](https://comemo.nikkei.com/n/n26dc284dcd5a) <br> [数年来の技術的負債を改修した話 - 2種類のORM並列状態からの脱却 -](https://zenn.dev/loglass/articles/94753ea267bb74) <br> [社内業務の生産性を爆上げしたGPTs / 利用推進のための取り組み](https://note.com/majackyy/n/n10b8191ef9ac?magazine_key=m56fa214ad4c6)"
+  },
+  {
+    "company_name": "株式会社CINC",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（ChatGPT Teamを全社導入） <br> [「ChatGPT Team」の全社導入後アンケートの結果に関するお知らせ](https://www.cinc-j.co.jp/news/7116/)"
+  },
+  {
+    "company_name": "株式会社リアルグローブ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "（全社の希望者に各アカウントを配布、Gemini Proを全社導入） <br> [社員の働き方改革：生成AIで開発効率化とエンジニアの負担を軽減！](https://note.com/realglobe101/n/n014bcc85ccec)"
+  },
+  {
+    "company_name": "Cloudbase 株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（Cursor, ChatGPT はロールを制限せず希望者に導入。Claude Code は API と Max プラン両方導入。Gemini Proは全社導入）"
+  },
+  {
+    "company_name": "株式会社エアークローゼット",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "(Claude Code Max, GitHub Copilotを全エンジニアに導入し、Cursorは希望者に支給しています。Devinは一部で検証中です。API経由でGeminiも利用しています。）<br> [Claude Code Maxを全エンジニアに導入しました！](https://zenn.dev/aircloset/articles/6a343b70185e02)"
+  },
+  {
+    "company_name": "株式会社ゲームエイト",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（Cursor一部導入、Devin・Copilot・ChatGPT・Claude Code全社導入） <br> [GitHub Copilot導入](https://x.com/chan_san_jp/status/1626073316523130883) <br> [Claude MAX導入](https://x.com/chan_san_jp/status/1930602413473636483)"
+  },
+  {
+    "company_name": "株式会社マインディア",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "Cline使い放題。<br> Cursorも希望者は全員利用可能<br>Claude Code, Gemini Cliの使用制限なし<br> 新モデルやClaude の Github統合はリリース日から[利用可能](https://zenn.dev/minedia/articles/be0005c37f7229)<br> Imagen,Midjourney,Lumaなど動画生成AIのAPIも利用可能。<br> 全社的にLLMは積極的に利用する方針なので申請すれば利用可能です。([参考](https://zenn.dev/p/minedia))"
+  },
+  {
+    "company_name": "株式会社メドレー",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "希望者に各アカウントを配布。Devinも100名を超えて積極活用中です。ClaudeCodeはAPI・Maxプランどちらも状況に合わせて導入  <br> [メドレーのAI活用戦略：「AI for All」](https://developer.medley.jp/entry/2025/04/25/112655/)"
+  },
+  {
+    "company_name": "株式会社picon",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（職種問わず全社員にAIツールを導入）"
+  },
+  {
+    "company_name": "株式会社サイバーエージェント",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（全社的に GitHub Copilot と ChatGPT をエンタープライズ契約しているのに加え、エンジニア1人あたり $200/月 まで任意の開発AIエージェントの費用を負担） <br> [サイバーエージェントのAI導入事例](https://note.com/cyberagent/n/n10b8191ef9ac) <br> [サイバーエージェントのGitHub Copilot導入と 開発生産性](https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing?slide=68) <br> [サイバーエージェントのGitHub CopilotのAnalyticsデータを公開！利用開始から約3ヶ月でエンジニアの生産性は向上したのか？](https://developers.cyberagent.co.jp/blog/archives/43059/) <br> [開発AIエージェント導入に年間約4億円を投資決定](https://www.cyberagent.co.jp/news/detail/id=32077)"
+  },
+  {
+    "company_name": "STORES 株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "Cursor, Devin, GitHub Copilot Enterpriseは申請に基づき希望者（全社員対象）にアカウント発行。ChatGPTも申請に応じて利用可能。Claude Codeは一部で展開中。<br>[AIサービス導入時にまずチェックすべき3つの観点](https://product.st.inc/entry/2025/06/26/194458)"
+  },
+  {
+    "company_name": "株式会社 asken",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "Cursor、Devin、GitHub Copilotは全エンジニアに導入済み"
+  },
+  {
+    "company_name": "レバレジーズ株式会社",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "Gemini<br>[社内ツール](https://tech.leverages.jp/entry/2024/12/10/131137)",
+      "Claude Code": "一部導入"
+    },
+    "source": "自社のセキュリティやプライバシーポリシー等に抵触しない限り、申請すれば利用可能"
+  },
+  {
+    "company_name": "千株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "（「GitHub Copilot、Cursor」を全エンジニア・PdMに導入・Devin、Claude Codeを一部導入）"
+  },
+  {
+    "company_name": "株式会社TechBowl",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "全社導入"
+    },
+    "source": "GitHub CopilotとClaude Codeを全社導入 <br> [参考](https://zenn.dev/p/techtrain_blog)"
+  },
+  {
+    "company_name": "ランサーズ株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "全社導入"
+    },
+    "source": "2025年3月から全エンジニアに「Windsurf」を導入、使いたいAIツールを挙手すれば、有料プランを全員に配布する仕組みも整えている。また業務自動化AIエージェント「ランサーズ ジムインAI」全社導入、OpenAI、Gemini、Anthropicの主要モデルおよびStableDiffusionでの画像生成が使い放題  <br> [全エンジニアにAI開発ツール「Windsurf」導入 ～社内調査：使用実態調査レポートを公開～](https://note.com/lancerspr/n/nbc8abc6a92a2) <br>  [ランサーズ ジムインAI](https://www.lancers.co.jp/news/pr/24268/)"
+  },
+  {
+    "company_name": "株式会社カナリー",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "Gemini for Google Workspace・Difyを全社導入 <br> [AI関連ツールの活用](https://recruit.canary-app.jp/engineer-entrance-book#:~:text=%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82-,3.2%20AI%E9%96%A2%E9%80%A3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%B4%BB%E7%94%A8,-GitHub%20Copilot)"
+  },
+  {
+    "company_name": "株式会社 オプティム",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "導入してない",
+      "ChatGPT": "導入してない",
+      "Claude Code": "全社導入"
+    },
+    "source": "全エンジニアにAmazon bedrock経由で導入済み"
+  },
+  {
+    "company_name": "NOWIST株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "全職種AI利用OK！ドキュメントと連携し効率化中"
+  },
+  {
+    "company_name": "monoAI technology株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "GitHub Copilot,ChatGPTは全社、Claude Codeはサーバーエンジニアのみ。UnityエンジニアはWindsurfを利用"
+  },
+  {
+    "company_name": "株式会社Voicy",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "Gemini を全社員に導入。全社の希望者に、Cursor、Devin、GitHub Copilot、ChatGPT、Claude Code の各アカウントを配布"
+  },
+  {
+    "company_name": "株式会社スマートバンク",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "全エンジニアはClaude Max / Cursor / GitHub Copilotから使いたいものを選んで利用可能です。全社員、Devinを利用可能で、$50まで好きなAIサービスを利用できるためChatGPTも利用可能です。"
+  },
+  {
+    "company_name": "株式会社 Fusic",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "Cursor、Devin、GitHub Copilot、Claude Codeを全エンジニアに展開しチーム等の判断により自由に選択可能。ChatGPT/Claudeはエンジニア以外にも導入済み"
+  },
+  {
+    "company_name": "株式会社TimeTree",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "これらのツールに加えてClaude.ai, Gemini, Gemini Code Assist, OpenAI API, Anthropic APIが利用可能(APIはワークスペース単位での利用上限あり)"
+  },
+  {
+    "company_name": "株式会社SmartHR",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "全社的にAIサービスの利用を推進しています。特にChatGPT、CursorはPdE以外のメンバーにも幅広く利用されています。 <br> [Cursor/Devin全社導入の理想と現実](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi) <br> [「Cursor/Devin全社導入の理想と現実」のその後](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi-nosonohou) <br> [エンジニア向けCursor勉強会のハンズオン資料公開！ —— Rules、Doc、MCP、音声入力との連携も](https://tech.smarthr.jp/entry/2025/04/28/163136) <br> [SmartHRの複数のチームにおけるMCPサーバーの活用事例と課題](https://speakerdeck.com/yukisnow1823/smarthrnofu-shu-notimuniokerumcpsabanohuo-yong-shi-li-toke-ti)"
+  },
+  {
+    "company_name": "株式会社カンリー",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "Cursor/Copilotは選択式<br/>Devin/ClaudeCodeは全エンジニアに導入<br/>Gemini/ChatGPT/NotionAIは職種を問わず全社員導入<br/>[カンリーはDevinを入社させて、文化を変えていきます](https://zenn.dev/canly/articles/d06828073eb545)"
+  },
+  {
+    "company_name": "株式会社カケハシ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "（Cursor・Devin・GitHub Copilot・Geminiアプリを全社導入、ChatGPTはTeamプランを一部利用、Claude Code は社内検証中）"
+  },
+  {
+    "company_name": "株式会社カオナビ",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "導入してない",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "一部導入"
+    },
+    "source": "(その他Gemini・NotebookLM・内製Slack AIチャットボット(Claude Sonnet)を全社導入、Claude Code導入準備中)"
+  },
+  {
+    "company_name": "株式会社TOKIUM",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "GitHub Copilotは2023年3月、Devinは2025年2月より導入 <br> [「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note](https://note.tokium.jp/n/ndc3da77d6e44) <br><br> 2025年6月から、エンジニア1人あたり月10万円のAIツール関連予算を確保しており、開発業務へのAI利用を積極的に支援 <br> [「アンラーニングを重ね、AIエージェント時代を切り拓く 【株式会社TOKIUM　取締役 CTO　西平 基志さん】」](https://magazine.techcareer.jp/interview/cto/24435/)"
+  },
+  {
+    "company_name": "株式会社Showcase Gig",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "Cursor, Devin, Github Copilot, ChatGPT は全エンジニアに導入。Claude Code は検討中です。"
+  },
+  {
+    "company_name": "株式会社アシュアード",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "GitHub CopilotとClaude Codeをエンジニア向けに全社導入。<br> CursorをPdM、デザイナーに一部導入。 <br> ほか、Gemini Pro が全社で利用可能。"
+  },
+  {
+    "company_name": "株式会社コロプラ",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "（Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025)"
+  },
+  {
+    "company_name": "株式会社 mov",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "[mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932)"
+  },
+  {
+    "company_name": "株式会社kubell",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "一部導入"
+    },
+    "source": "希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。"
+  },
+  {
+    "company_name": "コミューン株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "業務内容や個々のニーズに応じて、従業員が最適な生成AIツールの有料アカウントを自由に選択・活用できます<br>[業務に合わせてAIを選ぶ、新しい働き方。コミューンの『Choose Your AI』とは](https://note.com/communeinc/n/ndf8167c13160)"
+  },
+  {
+    "company_name": "ちゅらデータ株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "社内制度により、弊社エンジニアは任意のツールを導入可能。また、弊社プロダクト｢[AI文章校正ツールちゅらいと](https://chuwrite.com/)｣を無制限に利用可能。"
+  },
+  {
+    "company_name": "株式会社エスマット",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。"
+  },
+  {
+    "company_name": "株式会社B4A",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "プロダクトチーム全社員がClaude CodeとDevin利用可能。<br>全社員がGemini利用可能。<br>CursorとChatGPTは一部のみ利用可能。"
+  },
+  {
+    "company_name": "mocomoco株式会社",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> https://x.com/gojiteji/status/1936074104811229686"
+  },
+  {
+    "company_name": "株式会社ヤオコー",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "（GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能） [人間性を捧げる生成AI時代の技術選定](https://speakerdeck.com/yo4raw/ren-jian-xing-wo)"
+  },
+  {
+    "company_name": "株式会社キャリアインデックス",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "エンジニアに関して、Claude Codeは今後MAXを利用する予定、CodeRabbitも一部導入中。Geminiは全社員導入中。"
+  },
+  {
+    "company_name": "株式会社iCARE",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "一部導入"
+    },
+    "source": "全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定"
+  },
+  {
+    "company_name": "フリー株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "Gemini",
+      "Claude Code": "一部導入"
+    },
+    "source": "[AIエージェントCline、freeeはどうやって全社導入した？](https://developers.freee.co.jp/entry/ai-cline-rolling-out)"
+  },
+  {
+    "company_name": "アスクル株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "GitHub Copilotは全エンジニアに、ChatGPTは全社的に導入済み。Devinは一部開発チームから順次導入しています。<br> [全社員を対象に自社専用対話型生成AIツールを運用開始](https://www.askul.co.jp/kaisya/dx/stories/00146.html?nextUri=/kaisya/dx/stories/00146.html)"
+  },
+  {
+    "company_name": "株式会社GameWith",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "2023年3月よりGithub Copilot全社導入。2024年5月よりCursor, ChatGPT, Claudeなどの全社導入。Devin, Claude Codeも試験導入後に全社導入、その他Geminiも導入済み） <br> 【[GameWithでAIをうまく使うために取り組んでいること](https://tech.gamewith.co.jp/entry/2023/05/23/184033)】 <br> 【[AIツールの選択肢が増えたのでCursorを使い始めてみた話](https://tech.gamewith.co.jp/entry/2024/12/04/161409)】 <br> 【[Devinを2ヶ月間使った結果](https://tech.gamewith.co.jp/entry/2025/05/16/080000)】"
+  },
+  {
+    "company_name": "Nature株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "全社導入"
+    },
+    "source": "Google Workspace契約によりGemini Advanced利用可能。他のAIツールも申請すれば基本的に予算範囲内で利用可能。 <br> [【生成AI入門者向け】社内用に作ったスライドを公開します](https://engineering.nature.global/entry/how-to-get-along-well-with-generative-ai-public-version)"
+  },
+  {
+    "company_name": "Check Inn 株式会社",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "GitHub Copilot・Devinを全エンジニアに導入。<br>ChatGPTは一部導入済み"
+  },
+  {
+    "company_name": "株式会社LegalOn Technologies",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "全社導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "Devin、Cursor、ChatGPT、Geminiを全社展開。希望者はClaude Codeも利用可。<br>[AI-powered Development Center of Excellence (AID CoE) 発足！AI駆動開発で LegalOn Technologies の開発を加速する](https://tech.legalforce.co.jp/entry/2025/05/07/115000)"
+  },
+  {
+    "company_name": "株式会社Grooves",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "Gemini for Google Workspaceを導入<br>ChatGPTは希望者に配布"
+  },
+  {
+    "company_name": "株式会社ビットキー",
+    "tools": {
+      "Cursor": "一部導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "導入してない"
+    },
+    "source": "Geminiを全社導入済み"
+  },
+  {
+    "company_name": "株式会社ベンジャミン",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "一部導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "AWS環境ではAmazon Q Developer CLIを利用可能、Cursor, Devin, Gemini, GitHub Copilot Enterprise, Claude Codeは申請に基づき利用可能"
+  },
+  {
+    "company_name": "ツクリンク株式会社",
+    "tools": {
+      "Cursor": "全社導入",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "導入してない",
+      "Claude Code": "全社導入"
+    },
+    "source": "Claude Code, Cursor, GitHub Copilotを希望者に配布、Gemini Proを全社導入 <br> [ツクリンクにおける生成AIツールの活用事例](https://zenn.dev/tsukulink/articles/2025-07-gen-ai-tools)"
   }
-}
+]
