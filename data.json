@@ -1010,5 +1010,16 @@
       "Claude Code": "全社導入"
     },
     "source": "Claude Code, Cursor, GitHub Copilotを希望者に配布、Gemini Proを全社導入 <br> [ツクリンクにおける生成AIツールの活用事例](https://zenn.dev/tsukulink/articles/2025-07-gen-ai-tools)"
+  },
+  {
+    "company_name": "合同会社DMM.com",
+    "tools": {
+      "Cursor": "導入してない",
+      "Devin": "全社導入",
+      "GitHub Copilot": "全社導入",
+      "ChatGPT": "一部導入",
+      "Claude Code": "一部導入"
+    },
+    "source": "（DevinとClineをDMMで導入しました〜トライアルから見えた成果の共有〜） <br> [DevinとClineをDMMで導入しました〜トライアルから見えた成果の共有〜](https://developersblog.dmm.com/entry/2025/04/04/110000)"
   }
 ]
