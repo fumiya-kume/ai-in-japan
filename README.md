@@ -113,5 +113,6 @@ PRを送っていただけると大変助かります！🙌
 | [株式会社グッドパッチ](https://goodpatch.com/) | 🌀 | | ✅ | 🌀 | 🌀 | AIツールの活用ルールを社内で整備済み。GitHub Copilotは2023年3月から全エンジニア導入しており、Gemini Proは全社員に導入。その他、Chat GPT 等代表的な AI ツール含めて基本的には申請すれば導入可能で費用は会社側が負担。<br>[Goodpatch Blog-生成AI](https://goodpatch.com/blog/tag/%e7%94%9f%e6%88%90ai) <br> [Goodpatch Tech Blog-生成AI](https://goodpatch-tech.hatenablog.com/archive/category/Generative%20AI)|
 | 合同会社DMM.com | | ✅ | ✅ | 🌀 |🌀 | [DevinとClineをDMMで導入しました〜トライアルから見えた成果の共有〜](https://developersblog.dmm.com/entry/2025/04/04/110000) |
 | [クレジットエンジン株式会社](https://creditengine.jp/) |  |  | ✅ |  | ✅ |全社員の希望者にGitHub Copilot,Claude Codeを支給 <br>またGoogle WorkspaceでGeminiも利用可 |
+| [株式会社マクロミル](https://www.macromill.com/) |🌀|🌀|🌀|✅|🌀|エンジニア・データサイエンス部門で開発系AIエージェント各種を優先導入、全社では社内用AIチャット&Dify(AzureGPT,Gemini)を導入済み。Databricks全社導入済み。|
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
