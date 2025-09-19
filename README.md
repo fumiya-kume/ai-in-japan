@@ -114,5 +114,6 @@ PRを送っていただけると大変助かります！🙌
 | 合同会社DMM.com | | ✅ | ✅ | 🌀 |🌀 | [DevinとClineをDMMで導入しました〜トライアルから見えた成果の共有〜](https://developersblog.dmm.com/entry/2025/04/04/110000) |
 | [クレジットエンジン株式会社](https://creditengine.jp/) |  |  | ✅ |  | ✅ |全社員の希望者にGitHub Copilot,Claude Codeを支給 <br>またGoogle WorkspaceでGeminiも利用可 |
 | [株式会社マクロミル](https://www.macromill.com/) |🌀|🌀|🌀|✅|🌀|エンジニア・データサイエンス部門で開発系AIエージェント各種を優先導入、全社では社内用AIチャット&Dify(AzureGPT,Gemini)を導入済み。Databricks全社導入済み。|
+| ウォンテッドリー株式会社 |✅|✅|✅|✅|✅|2023年7月より GitHub Copilot を利用開始。Gemini for Google Workspace, Perplexity 等も利用中。<br> [開発組織の全員が Devin と Cursor を活用するための取り組み](https://www.wantedly.com/companies/wantedly/post_articles/992908)<br> [Devin や Cursor などの生成 AI ツール導入に向けて何を取り組んだのか](https://speakerdeck.com/fohte/devin-ya-cursor-nadonosheng-cheng-ai-turudao-ru-nixiang-ketehe-woqu-rizu-ndanoka)|
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
