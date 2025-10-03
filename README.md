@@ -115,5 +115,6 @@ PRを送っていただけると大変助かります！🙌
 | [クレジットエンジン株式会社](https://creditengine.jp/) |  |  | ✅ |  | ✅ |全社員の希望者にGitHub Copilot,Claude Codeを支給 <br>またGoogle WorkspaceでGeminiも利用可 |
 | [株式会社マクロミル](https://www.macromill.com/) |🌀|🌀|🌀|✅|🌀|エンジニア・データサイエンス部門で開発系AIエージェント各種を優先導入、全社では社内用AIチャット&Dify(AzureGPT,Gemini)を導入済み。Databricks全社導入済み。|
 | [株式会社ミラティブ](https://www.mirrativ.co.jp/) |✅|✅|✅|✅|✅| 2023年3月よりChatGPT Plusを全社導入。以降、全社員に対して希望者が各種AIツールを使用できるように継続的に環境を整備している。<br>[ミラティブ、全社員を対象に「ChatGPT Plus」の月額利用料を全額補助する福利厚生を導入 今後のサポート強化も予定](https://prtimes.jp/main/html/rd/p/000000095.000033025.html)<br>[CEO×CTO公開1on1 ─ CTO就任からの1年半と、これから。AI時代にエンジニアが「学び続けられる」組織へ](https://note.com/mirrativ/n/n8f6cf66cef22) |
+| ウォンテッドリー株式会社 |✅|✅|✅|✅|✅|2023年7月より GitHub Copilot を利用開始。Gemini for Google Workspace, Perplexity 等も利用中。<br> [開発組織の全員が Devin と Cursor を活用するための取り組み](https://www.wantedly.com/companies/wantedly/post_articles/992908)<br> [Devin や Cursor などの生成 AI ツール導入に向けて何を取り組んだのか](https://speakerdeck.com/fohte/devin-ya-cursor-nadonosheng-cheng-ai-turudao-ru-nixiang-ketehe-woqu-rizu-ndanoka)|
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
