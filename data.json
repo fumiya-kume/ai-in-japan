@@ -905,12 +905,12 @@
     "company_name": "フリー株式会社",
     "tools": {
       "Cursor": "導入してない",
-      "Devin": "一部導入",
+      "Devin": "全社導入",
       "GitHub Copilot": "全社導入",
       "ChatGPT": "Gemini",
-      "Claude Code": "一部導入"
+      "Claude Code": "全社導入"
     },
-    "source": "[AIエージェントCline、freeeはどうやって全社導入した？](https://developers.freee.co.jp/entry/ai-cline-rolling-out)"
+    "source": "[AIエージェントCline、freeeはどうやって全社導入した？](https://developers.freee.co.jp/entry/ai-cline-rolling-out) <br> [AI駆動開発へ。freee は開発環境をどう進化させているか？- 前編](https://developers.freee.co.jp/entry/ai-driven-development-01) <br> [数字で振り返る freee の AI 駆動開発 - 後編](https://developers.freee.co.jp/entry/ai-driven-development-2025-report)"
   },
   {
     "company_name": "アスクル株式会社",
